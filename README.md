@@ -3,9 +3,7 @@
 **Course:** BCA  
 **Subject:** C DSA  
 **Assignment:** Stack and Circular Queue Using Arrays  
-**Submission Deadline:** 7 October 2026
 
----
 
 ## Contents
 
